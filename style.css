@@ -109,3 +109,23 @@ body{
     display: 300ms ease-in-out;
 }
 
+
+.menu-option ul li a i{
+    margin-right: 10px 0;
+    color: #eee;
+    font-size: 15px;
+}
+
+.menu-option ul li a:hover{
+    background: rgba(9, 223, 9, 0.3);
+}
+
+
+.fa-angle-right {
+    margin-left: 145px;
+}
+
+
+.fa-circle {
+    margin-left: 103px;
+}
